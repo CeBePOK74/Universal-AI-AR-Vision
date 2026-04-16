@@ -1,0 +1,18 @@
+Universal-AI-AR-Vision
+Universal AI Vision: 3D Surface Mapping & Texture Overlay
+[RU] Инновационная AR-система на базе ИИ, работающая без Google ARCore.
+
+Проблема большинства AR-приложений — зависимость от сервисов Google, которые не поддерживаются на многих устройствах (особенно бюджетных). Я решаю эту проблему, используя компьютерное зрение (AI Vision) для распознавания поверхностей и наложения 3D-сеток.
+
+Что уже в проекте:
+Independence: Полная независимость от белых списков ARCore.
+AI Mesh: Алгоритмы наложения текстур на распознанные объекты.
+Retail Ready: Архитектура подготовлена под интеграцию с каталогами магазинов.
+[EN] Innovative AI-driven AR system functioning without Google ARCore.
+
+Most AR apps are limited by Google ARCore device compatibility. This project bypasses those restrictions by using AI Vision for surface detection and 3D mesh generation.
+
+Key Features:
+Device Agnostic: Works on any Android device with a camera.
+AI Mesh Generation: Custom logic for 3D texture mapping.
+E-commerce Ready: Designed for store catalog integration.
